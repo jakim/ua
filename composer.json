@@ -1,0 +1,14 @@
+{
+  "name": "jakim-pj/ua",
+  "description": "Always up to date, random User-Agent",
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paweł Jakimowski",
+      "email": "pawel@jakimowski.info"
+    }
+  ]
+}
