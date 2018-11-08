@@ -2,7 +2,8 @@
   "name": "jakim-pj/ua",
   "description": "Always up to date, random User-Agent",
   "require": {
-    "php": ">=7.1.0"
+    "php": ">=7.1.0",
+    "ext-curl": "*",
   },
   "license": "MIT",
   "authors": [
