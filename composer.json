@@ -11,5 +11,10 @@
       "name": "Paweł Jakimowski",
       "email": "pawel@jakimowski.info"
     }
-  ]
+  ],
+    "autoload": {
+    "psr-4": {
+      "jakim\\ua\\": ""
+    }
+  }
 }
