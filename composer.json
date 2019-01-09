@@ -3,7 +3,8 @@
   "description": "Always up to date, random User-Agent",
   "require": {
     "php": ">=7.1.0",
-    "ext-curl": "*"
+    "ext-curl": "*",
+    "ext-dom": "*"
   },
   "license": "MIT",
   "authors": [
